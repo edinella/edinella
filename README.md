@@ -13,5 +13,5 @@
 </div>
 
 <div align="center">
-  ![Views count](https://komarev.com/ghpvc/?username=edinella&color=brightgreen)
+  <img alt="Views count" src="https://komarev.com/ghpvc/?username=edinella&color=brightgreen" />
 </div>
