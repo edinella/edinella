@@ -12,4 +12,6 @@
   <img alt="Chart showing GitHub Streak data of Ezequias" src="https://github-readme-streak-stats.herokuapp.com?user=edinella&hide_border=true)" />
 </div>
 
-![Views count](https://komarev.com/ghpvc/?username=edinella&color=brightgreen)
+<div align="center">
+  ![Views count](https://komarev.com/ghpvc/?username=edinella&color=brightgreen)
+</div>
