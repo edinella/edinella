@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to <a href="https://www.linkedin.com/in/edinella/" title="LinkedIn of Ezequias Dinella">Ezequias Dinella</a>'s profile!</h1>
+<h1 align="center">Welcome to <a href="https://www.linkedin.com/in/edinella/" title="LinkedIn Profile of Ezequias Dinella">Ezequias Dinella</a>'s profile!</h1>
 
 <div align="center">
   <img alt="Chart showing Ezequias's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=edinella&count_private=true&show_icons=true" />
@@ -15,3 +15,11 @@
 <div align="center">
   <img alt="Views count" src="https://komarev.com/ghpvc/?username=edinella&color=brightgreen" />
 </div>
+
+
+<div align="center">
+  <a href="https://stackoverflow.com/users/1442476/ezequias-dinella/" title="Stack Overflow Profile of Ezequias Dinella">
+    <img alt="Stack Exchange Stats" src="https://stackexchange.com/users/flair/1549802.png" />
+  </a>
+</div>
+
