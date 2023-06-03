@@ -2,10 +2,10 @@
 
 Hello, I'm Ezequias - a seasoned software engineer with a passion for problem-solving, product development, and entrepreneurship.
 
-<a href="https://stackoverflow.com/users/1442476/ezequias-dinella/" title="Stackoverflow reputation"><img alt="Stackoverflow reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/1442476" /></a>
-<a href="#" title=""><img alt="Views count" src="https://komarev.com/ghpvc/?username=edinella&color=brightgreen" /></a>
-<a href="#" title=""><img alt="GitHub followers" src="https://img.shields.io/github/followers/edinella"></a>
-<a href="#" title=""><img alt="GitHub User's stars" src="https://img.shields.io/github/stars/edinella?affiliations=OWNER%2CCOLLABORATOR"></a>
+<a href="https://stackoverflow.com/users/1442476/ezequias-dinella/" title="Ezequias's Stack Overflow Reputation"><img alt="Ezequias's Stack Overflow Reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/1442476?color=orange&label=reputation&logo=stackoverflow&style=for-the-badge" /></a>
+<a href="#" title=""><img alt="Views count" src="https://komarev.com/ghpvc/?username=edinella&color=brightgreen&style=for-the-badge" /></a>
+<a href="#" title=""><img alt="GitHub followers" src="https://img.shields.io/github/followers/edinella?style=for-the-badge"></a>
+<a href="#" title=""><img alt="GitHub User's stars" src="https://img.shields.io/github/stars/edinella?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge"></a>
 
 ## About Me
 
