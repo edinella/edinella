@@ -1,25 +1,27 @@
-<h1 align="center">Welcome to <a href="https://www.linkedin.com/in/edinella/" title="LinkedIn Profile of Ezequias Dinella">Ezequias Dinella</a>'s profile!</h1>
+# Ezequias Dinella
 
-<div align="center">
-  <img alt="Chart showing Ezequias's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=edinella&count_private=true&show_icons=true" />
-</div>
+Hello, I'm Ezequias - a seasoned software engineer with a passion for problem-solving and product development.
 
-<div align="center">
-  <img alt="Chart showing top programming languages of Ezequias" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edinella&layout=compact" />
-</div>
+<img alt="Stackoverflow reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/1442476" /> <img alt="Views count" src="https://komarev.com/ghpvc/?username=edinella&color=brightgreen" /> <img alt="GitHub followers" src="https://img.shields.io/github/followers/edinella"> <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/edinella?affiliations=OWNER%2CCOLLABORATOR">
 
-<div align="center">
-  <img alt="Chart showing GitHub Streak data of Ezequias" src="https://github-readme-streak-stats.herokuapp.com?user=edinella&hide_border=true)" />
-</div>
+## About Me
 
-<div align="center">
-  <img alt="Views count" src="https://komarev.com/ghpvc/?username=edinella&color=brightgreen" />
-</div>
+With a career spanning over 16 years in digital product development, I bring to the table robust experience and strong problem-solving skills. I have a demonstrated history of delivering sustainable solutions for SaaS platforms in fast-paced environments and have kept pace with evolving industry trends.
 
+## Skills
 
-<div align="center">
-  <a href="https://stackoverflow.com/users/1442476/ezequias-dinella/" title="Stack Overflow Profile of Ezequias Dinella">
-    <img alt="Stack Exchange Stats" src="https://stackexchange.com/users/flair/1549802.png" />
-  </a>
-</div>
+- Product design and roadmap planning
+- System architecture and decoupling
+- Autoscaling and microservices
+- UX design and data modeling
+- Proficiency in MongoDB, MySQL, MSSQL, PostgreSQL, Cloud Pub/Sub, RabbitMQ, ZeroMQ, Beanstalk, Redis, Memcache
+- Expertise in HTML, CSS, Javascript, Web Components, Vue, AngularJS, PHP, NodeJS, Typescript, Golang, Python, XML, JSON, Webservices, and GIT
+- Project management, strategic planning, and portfolio management
+- Proficient in cloud computing, DB migrations, caching, encryption, authentication, and authorization.
+
+## Find Me Elsewhere
+
+- 📧 [Email](mailto:ezequias.net@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/edinella)
+- 🗓️ [Schedule a Talk](https://cal.com/ezequias)
 
