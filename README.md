@@ -11,6 +11,12 @@ Hello, I'm Ezequias - a seasoned software engineer with a passion for problem-so
 
 With a career spanning over 16 years in digital product development, I bring to the table robust experience, strong problem-solving skills, and entrepreneurial acumen. A key highlight of my career has been founding and scaling a successful SaaS platform. This experience has not only honed my technical skills but also given me a deep understanding of strategic planning, user experience design, and end-to-end product management.
 
+## Find Me Elsewhere
+
+<a href="https://www.linkedin.com/in/edinella" title="Open LinkedIn profile"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-profile-blue?logo=linkedin&style=for-the-badge" /></a>
+<a href="mailto:ezequias.net@gmail.com" title="Send e-mail"><img alt="E-mail" src="https://img.shields.io/badge/E--mail-compose-red?logo=gmail&style=for-the-badge" /></a>
+<a href="https://cal.com/ezequias" title="Schedule a Talk"><img alt="Cal.com profile" src="https://img.shields.io/badge/Schedule-talk-brightgreen?logo=googlecalendar&style=for-the-badge" /></a>
+
 ## Skills
 
 - Product design, roadmap planning, and end-to-end product management
@@ -20,9 +26,3 @@ With a career spanning over 16 years in digital product development, I bring to 
 - Expertise in HTML, CSS, Javascript, Web Components, Vue, AngularJS, PHP, NodeJS, Typescript, Golang, Python, XML, JSON, Webservices, and GIT
 - Strategic planning, portfolio management, and entrepreneurship in the SaaS domain
 - Proficient in cloud computing, DB migrations, caching, encryption, authentication, and authorization.
-
-## Find Me Elsewhere
-
-<a href="https://www.linkedin.com/in/edinella" title="Open LinkedIn profile"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-profile-blue?logo=linkedin&style=for-the-badge" /></a>
-<a href="mailto:ezequias.net@gmail.com" title="Send e-mail"><img alt="E-mail" src="https://img.shields.io/badge/E--mail-compose-red?logo=gmail&style=for-the-badge" /></a>
-<a href="https://cal.com/ezequias" title="Schedule a Talk"><img alt="Cal.com profile" src="https://img.shields.io/badge/Schedule-talk-brightgreen?logo=googlecalendar&style=for-the-badge" /></a>
