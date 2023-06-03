@@ -3,9 +3,9 @@
 Hello, I'm Ezequias - a seasoned software engineer with a passion for problem-solving, product development, and entrepreneurship.
 
 <a href="https://stackoverflow.com/users/1442476/ezequias-dinella/" title="Ezequias's Stack Overflow Reputation"><img alt="Ezequias's Stack Overflow Reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/1442476?color=orange&label=reputation&logo=stackoverflow&style=for-the-badge" /></a>
+<a href="#" title=""><img alt="GitHub followers" src="https://img.shields.io/github/followers/edinella?style=for-the-badge&logo=github&color=blueviolet"></a>
+<a href="#" title=""><img alt="GitHub User's stars" src="https://img.shields.io/github/stars/edinella?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&color=blueviolet"></a>
 <a href="#" title=""><img alt="Views count" src="https://komarev.com/ghpvc/?username=edinella&color=blueviolet&style=for-the-badge" /></a>
-<a href="#" title=""><img alt="GitHub followers" src="https://img.shields.io/github/followers/edinella?style=for-the-badge&logo=github"></a>
-<a href="#" title=""><img alt="GitHub User's stars" src="https://img.shields.io/github/stars/edinella?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github"></a>
 
 ## About Me
 
@@ -13,7 +13,7 @@ With a career spanning over 16 years in digital product development, I bring to 
 
 ## Find Me Elsewhere
 
-<a href="https://www.linkedin.com/in/edinella" title="Open LinkedIn profile"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-profile-blue?logo=linkedin&style=for-the-badge" /></a>
+<a href="https://www.linkedin.com/in/edinella" title="Open LinkedIn profile"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-profile-0A66C2?logo=linkedin&style=for-the-badge" /></a>
 <a href="mailto:ezequias.net@gmail.com" title="Send e-mail"><img alt="E-mail" src="https://img.shields.io/badge/E--mail-compose-red?logo=gmail&style=for-the-badge" /></a>
 <a href="https://cal.com/ezequias" title="Schedule a Talk"><img alt="Cal.com profile" src="https://img.shields.io/badge/Schedule-talk-brightgreen?logo=googlecalendar&style=for-the-badge" /></a>
 
