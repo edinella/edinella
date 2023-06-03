@@ -2,7 +2,10 @@
 
 Hello, I'm Ezequias - a seasoned software engineer with a passion for problem-solving, product development, and entrepreneurship.
 
-<img alt="Stackoverflow reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/1442476" /> <img alt="Views count" src="https://komarev.com/ghpvc/?username=edinella&color=brightgreen" /> <img alt="GitHub followers" src="https://img.shields.io/github/followers/edinella"> <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/edinella?affiliations=OWNER%2CCOLLABORATOR">
+<a href="https://stackoverflow.com/users/1442476/ezequias-dinella/" title="Stackoverflow reputation"><img alt="Stackoverflow reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/1442476" /></a>
+<a href="#" title=""><img alt="Views count" src="https://komarev.com/ghpvc/?username=edinella&color=brightgreen" /></a>
+<a href="#" title=""><img alt="GitHub followers" src="https://img.shields.io/github/followers/edinella"></a>
+<a href="#" title=""><img alt="GitHub User's stars" src="https://img.shields.io/github/stars/edinella?affiliations=OWNER%2CCOLLABORATOR"></a>
 
 ## About Me
 
