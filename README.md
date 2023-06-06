@@ -15,6 +15,7 @@ With a career spanning over 16 years in digital product development, I bring to 
 
 <a href="https://www.linkedin.com/in/edinella" title="Open LinkedIn profile"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-profile-0A66C2?logo=linkedin&style=for-the-badge" /></a>
 <a href="mailto:ezequias.net@gmail.com" title="Send e-mail"><img alt="E-mail" src="https://img.shields.io/badge/E--mail-compose-red?logo=gmail&style=for-the-badge" /></a>
+<a href="https://github.com/edinella?tab=followers"><img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/edinella?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow&logoColor=white"/></a>
 <a href="https://cal.com/ezequias" title="Schedule a Talk"><img alt="Cal.com profile" src="https://img.shields.io/badge/Schedule-talk-brightgreen?logo=googlecalendar&style=for-the-badge" /></a>
 
 ## Skills
