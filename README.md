@@ -24,6 +24,6 @@ With a career spanning over 16 years in digital product development, I bring to 
 - System architecture, decoupling, and microservices
 - UX design, data modeling, and SaaS development
 - Proficiency in MongoDB, MySQL, MSSQL, PostgreSQL, Cloud Pub/Sub, RabbitMQ, ZeroMQ, Beanstalk, Redis, Memcache
-- Expertise in HTML, CSS, Javascript, Web Components, Vue, AngularJS, PHP, NodeJS, Typescript, Golang, Python, XML, JSON, Webservices, and GIT
+- Expertise in HTML, CSS, Javascript, Web Components, Vue, React, Svelte, AngularJS, PHP, NodeJS, Typescript, Golang, Python, XML, JSON, Webservices, and GIT
 - Strategic planning, portfolio management, and entrepreneurship in the SaaS domain
 - Proficient in cloud computing, DB migrations, caching, encryption, authentication, and authorization.
