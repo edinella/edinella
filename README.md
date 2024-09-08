@@ -9,7 +9,7 @@ Hello, I'm Ezequias - a seasoned software engineer with a passion for problem-so
 
 ## About Me
 
-With a career spanning over 16 years in digital product development, I bring to the table robust experience, strong problem-solving skills, and entrepreneurial acumen. A key highlight of my career has been founding and scaling a successful SaaS platform. This experience has not only honed my technical skills but also given me a deep understanding of strategic planning, user experience design, and end-to-end product management.
+With a career spanning over 17 years in digital product development, I bring to the table robust experience, strong problem-solving skills, and entrepreneurial acumen. A key highlight of my career has been founding and scaling a successful SaaS platform. This experience has not only honed my technical skills but also given me a deep understanding of strategic planning, user experience design, and end-to-end product management.
 
 ## Find Me Elsewhere
 
